@@ -12,3 +12,6 @@ How to use this script:
  * Done!
  
 We wish you happy deployment using generate installer.
+
+@tvdstorm
+@jurgenvinju
